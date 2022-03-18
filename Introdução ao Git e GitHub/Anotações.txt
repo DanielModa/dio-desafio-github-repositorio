@@ -1,0 +1,4 @@
+Git status - para ver os dados da pasta em que você está!;
+cd - para entrar em uma pasta no git;
+cd .. - para sair de uma pagina;
+CRTL + L - limpa a tela;
